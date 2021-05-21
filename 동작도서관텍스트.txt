@@ -1,0 +1,56 @@
+동작도서관 컬러 
+
+메인색 : #192737
+rgba(25,39,55,1)
+
+포인트 : #3ac8e7
+rgba(58,200,231,1)
+
+서브메뉴 박스 배경 : #006eaf
+
+알림게시판 hover 시 색깔 
+#3683ed
+rgba(54,131,237,1)
+
+아이콘 배경 색
+#a2a2a2
+rgba(162,162,162,1)
+
+footer 배경 색
+#074856
+rgba(7,72,86,1)
+
+
+
+비대면자격확인인증
+로그인
+회원가입
+사이트맵
+
+
+자료검색
+프로그램
+열린공간
+도서관안내
+마이라이브러리
+
+
+http://pofl.cafe24.com/public/12/main.html
+국민연금(학생포폴)
+
+
+https://library.humanrights.go.kr/
+인권도서관
+
+https://lib.seoul.go.kr/
+서울도서관
+
+
+https://dive.hyundaicard.com/web/designlibrary/spaceMain.hdc
+현대카드도서관
+
+
+http://www.bprlib.kr/web/main.do
+생명윤리정책 전문도서관
+
+
